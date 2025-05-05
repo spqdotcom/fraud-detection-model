@@ -4,13 +4,15 @@
 Financial fraud is a significant challenge in the digital era, where millions of transactions occur every day. Detecting fraudulent activities in real time is essential to minimizing financial losses and ensuring user security. This project focuses on developing a machine learning model to identify fraudulent transactions using real-world data.
 
 ## Project Overview
-This project aims to build a fraud detection system using various machine learning algorithms. The dataset consists of anonymized financial transactions, with each transaction labeled as fraudulent or legitimate. The primary objectives of this project are:
+This repository contains the code and resources for my fraud detection application, developed during my Ironhack Data Analytics Bootcamp. Built entirely by me, this project uses machine learning to identify fraudulent transactions in a banking scenario and won the top award at the Hackshow for its practical impact. The system processes a dataset of 144,000 transactions with 434 features (e.g., amounts, card details, devices) to predict fraud in real time, featuring a pipeline with data preprocessing, feature engineering, a LightGBM model, and a Streamlit app for user interaction.
 
-* Data Exploration & Preprocessing: Understanding patterns and cleaning data.
-* Feature Engineering: Extracting meaningful features to improve model performance.
-* Model Selection & Training: Comparing different models such as Logistic Regression, Decision Trees, Random Forest, XGBoost, and LightGBM.
-* Evaluation & Optimization: Tuning hyperparameters and handling data imbalance to improve accuracy.
-* Deployment Possibilities: Discussing potential real-world applications of the trained model.
+## Repository Structure
+
+data/: Contains information about the dataset (see below for details).
+
+results/: Stores presentation materials, visualizations, and model performance outputs.
+
+src/: Includes the source code for data processing, model training, and the app.
 
 ## Model Evaluation: Precision, Recall, F1-score
 
