@@ -20,7 +20,7 @@ Please note that to download the dataset, you must:
 
 ## Notes
 - The dataset contains real, anonymized transaction data provided by the IEEE-CIS, intended for fraud detection research.
-- This project uses the dataset to develop a fraud detection model, with the presentation stored in `docs`.
+- This project uses the dataset to develop a fraud detection model, with the presentation stored in `results`.
 - Be mindful of the competition rules, especially if you intend to share code or models publicly (e.g., code derived from this dataset should be shared under an open-source license as per the competition guidelines).
 - For any questions about the dataset or its usage, refer to the Kaggle competition page or contact the competition organizers.
 
