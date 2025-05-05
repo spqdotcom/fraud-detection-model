@@ -12,6 +12,20 @@ This repository contains the code and resources for my fraud detection applicati
 - `results/`: Stores presentation materials, visualizations, and model performance outputs.
 - `src/`: Includes the source code for data processing, model training, and the app.
 
+## Project Highlights
+
+- Real-Time Detection: Uses LightGBM to flag fraud instantly.
+- Feature Engineering: Custom features (e.g., D2, C1-C14) enhance accuracy.
+- Impact: Won the Hackshow for its practical banking application.
+
+## Technologies Used
+
+- Python: Core language (Pandas, NumPy, Scikit-learn).
+- LightGBM: For fast, scalable predictions.
+- Tableau: For data visualization.
+- Streamlit: For the app interface.
+- Git: For version control.
+
 ## Model Evaluation: Precision, Recall, F1-score
 
 ## Expected Outcomes
