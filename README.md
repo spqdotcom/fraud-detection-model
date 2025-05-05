@@ -8,11 +8,9 @@ This repository contains the code and resources for my fraud detection applicati
 
 ## Repository Structure
 
-data/: Contains information about the dataset (see below for details).
-
-results/: Stores presentation materials, visualizations, and model performance outputs.
-
-src/: Includes the source code for data processing, model training, and the app.
+- `data/`: Contains information about the dataset (see below for details).
+- `results/`: Stores presentation materials, visualizations, and model performance outputs.
+- `src/`: Includes the source code for data processing, model training, and the app.
 
 ## Model Evaluation: Precision, Recall, F1-score
 
